@@ -1,9 +1,9 @@
-#Mi primer proyecto en Github
+# Mi primer proyecto en Github
 
 - Aplicación de gestor de tareas en Java.
 - Aplicación en consola
 
 
-#Desarrollado por:
+# Desarrollado por:
 
-- Cami Alvarado.
+- **Cami Alvarado**.
