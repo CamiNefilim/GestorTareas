@@ -14,7 +14,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         int opcion;
         do{
-            System.out.println("--- Gestor de tareas ---");
+            System.out.println("--- Gestor de tareas v2 ---");
             System.out.println("1. Agregar tarea.");
             System.out.println("2. Eliminar tarea.");
             System.out.println("3. Mostrar tareas.");
